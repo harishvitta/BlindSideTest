@@ -1,0 +1,6 @@
+[submodule "blindside"]
+	path = blindside
+	url = https://github.com/jbsf/blindside.git
+[submodule "externals/Blindside"]
+	path = externals/Blindside
+	url = https://github.com/jbsf/blindside.git
