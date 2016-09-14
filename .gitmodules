@@ -1,3 +1,0 @@
-[submodule "externals/Cedar"]
-	path = externals/Cedar
-	url = https://github.com/pivotal/cedar.git
